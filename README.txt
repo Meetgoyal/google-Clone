@@ -19,6 +19,9 @@ This project is a **Google Search Page Clone** built with responsive UI and inte
 
 ---
 
+**demo**
+https://chipper-paletas-a01428.netlify.app/
+
 ## How to Use
 
 1. Clone the repository:
